@@ -9,9 +9,10 @@ kramdown:
 author: 
   name: 闫肃
   email: suyan0830@gmail.com
-  link: http://JohnnyLee2014.github.io
+  link: http://yansu.org
   weibo: http://weibo.com/yansu0711
-  github: http://github.com/JohnnyLee2014.github.io
+  github: http://github.com/suyan
+
 # 站点信息
 title: 闫肃的博客 
 description: 闫肃的博客
@@ -25,7 +26,7 @@ favicon: http://yansu-uploads.stor.sinaapp.com/imgs/favicon.ico
 # google analytics 设置
 ga:
   id: UA-54767140-1
-  url: JohnnyLee2014.github.io
+  url: yansu.org
 
 # disqus 设置
 disqus:
